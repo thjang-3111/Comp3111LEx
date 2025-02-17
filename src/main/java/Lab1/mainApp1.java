@@ -3,7 +3,6 @@ package Lab1;
 Main application for Lab1 exercise */
 public class mainApp1 {
     public static void main(String[] args) {
-        //3111 app main entry
         int b = 2;
         int n = 11;
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));

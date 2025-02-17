@@ -3,7 +3,7 @@ package Lab1;
 my Java library consists of 2 mathematical functions */
 public class myLibrary {
     public static int Power(int Base, int Exponent){
-        //blah blah blaha
+        //blah blah blah
     if (Exponent==1){
         return Base * Exponent;
     } else{
